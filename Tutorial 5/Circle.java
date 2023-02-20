@@ -38,7 +38,7 @@ public class Circle {  // Save as "Circle.java"
       return 2*Math.PI*radius;
    }
 
-   /** Return a self-descriptive string of this instance in the form of Circle[radius=?,color=?] */
+   /** Return a self-descriptive string of this instance in the form of Circle[radius=?] */
    public String toString() {
       return "Circle[radius=" + radius + "]";
    }
