@@ -6,12 +6,12 @@ public class MyPoint {
    private int x, y;
 
    // The constructors (overloaded)
-   /** Construct a Point instance with the default values */
+   /** Construct a MyPoint instance with the default values */
    public MyPoint() {  // The default constructor
       this.x = 0;
       this.y = 0;
    }
-   /** Construct a Point instance with the given x and y values */
+   /** Construct a MyPoint instance with the given x and y values */
    public MyPoint(int x, int y) {
       this.x = x;
       this.y = y;
