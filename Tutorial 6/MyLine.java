@@ -1,5 +1,5 @@
 /**
- * A Line composes of two Points - a begin "Point" and an end "Point".
+ * A MyLine composes of two MyPoints - a begin "MyPoint" and an end "MyPoint".
  * We reuse the MyPoint class via composition.
  */
 public class MyLine {
