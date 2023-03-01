@@ -1,5 +1,5 @@
 /**
- * The Circle class composes a "MyPoint" instance as its center and a radius.
+ * The MyCircle class composes a "MyPoint" instance as its center and a radius.
  * We reuse the "MyPoint" class via composition.
  */
 public class MyCircle {
