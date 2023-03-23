@@ -5,7 +5,7 @@ import java.util.Scanner;   // For keyboard input
  * 3. Check if the integer is odd or even
  * 4. Display the result
  */
-public class OddEvenTut1 {  // Save as "OddEvenTut1.java"
+public class OddEven {  // Save as "OddEven.java"
    public static void main (String[] args) {
       // Declare variables
       int numberIn;   // input integer
